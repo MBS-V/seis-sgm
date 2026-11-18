@@ -1,0 +1,3 @@
+# name  url  commit  (authors' repos, pinned so every session runs identical code)
+IPS-RNA     https://github.com/mengchuangji/IPS-RNA.git     eed7523e843e513c6eb3247d7caa7324e5f41191
+VI-Non-IID  https://github.com/mengchuangji/VI-Non-IID.git  6a94b8d1382974a23cb07a31c2f80f085e4094f6

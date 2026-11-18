@@ -1,0 +1,10 @@
+vendor/
+_work/
+data/
+ckpt/
+runs/
+results/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
